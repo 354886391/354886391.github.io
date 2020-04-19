@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">不知晚的博客</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2020-04-19T14:57:07+08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>不知晚</name>
+            <uri>https://example.com/</uri>
+            
+                <email>miogo@sina.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.69.0">Hugo</generator>
+        <entry>
+            <title type="text">望腰间赘肉有感</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/hello-world/" />
+            <id>https://example.com/posts/hello-world/</id>
+            <updated>2020-04-19T14:49:17+08:00</updated>
+            <published>2020-04-16T01:00:01+08:00</published>
+            <author>
+                    <name>不知晚</name>
+                    <uri>https://ancolo.com/</uri>
+                    <email>miogo@sina.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[岁月蹉跎，时间如流水一般。总会在百无聊赖之际感慨世事，回忆往昔。 回想过去，似乎一切都...]]></summary>
+            
+                <content type="html"><![CDATA[<p>  岁月蹉跎，时间如流水一般。总会在百无聊赖之际感慨世事，回忆往昔。<br>
+  回想过去，似乎一切都平淡如水，既没有波澜壮阔，也没有激流暗壑，偶起潋滟也早已消逝在时间的长河中。看到他人的精彩人生，不免悲从中来，心生嫉妒，想想也是可笑，何时已变的这般模样。快乐是别人的，我什么都没有。窗外的喧嚣声，只是徒增吵闹罢了。<br>
+  心中存放着梦想，随着时光的消磨，早已褪去了往日的棱角，上面斑驳的沟壑仿佛在倾诉着自己的过往，而如今却早已被遗弃在阴暗的角落，似乎是在与命运做最后的抗争，散发出微弱的银光在向命运呐喊，却又充满着无奈与彷徨。我从未忘记过它，却每次都败给懒惰。总是下定决心改变自己重拾梦想，努力学习充实生活，却总是无疾而终，最终变成了自己所讨厌的样子。<br>
+  生活，生活！难道只是为了生活，为什么会变成现在这个样子！
+  不甘心所以才活的很累。不愿意随波逐流，迷失在茫茫人海，却又没有勇气改变这一切。每天都活在自责与憧憬中，不断的厌恶着自己，不断的安慰着自己。<br>
+  无力的望着这个世界，我仿佛如幽灵一般游荡、游荡，飘浮在这城市中。没有目的，没有理由，没有灵魂，不曾来过。只剩躯壳，浑浑噩噩。<br></p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>

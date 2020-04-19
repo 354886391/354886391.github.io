@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>不知晚的博客</title>
+        <link>https://example.com/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.69.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>miogo@sina.com (不知晚)</managingEditor>
+        
+        
+            <webMaster>miogo@sina.com (不知晚)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sun, 19 Apr 2020 14:57:07 +0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml" />
+        
+        
+            <item>
+                <title>望腰间赘肉有感</title>
+                <link>https://example.com/posts/hello-world/</link>
+                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
+                <pubDate>Thu, 16 Apr 2020 01:00:01 +0800</pubDate>
+                
+                    <author>miogo@sina.com (不知晚)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description><![CDATA[<p>  岁月蹉跎，时间如流水一般。总会在百无聊赖之际感慨世事，回忆往昔。<br>
+  回想过去，似乎一切都平淡如水，既没有波澜壮阔，也没有激流暗壑，偶起潋滟也早已消逝在时间的长河中。看到他人的精彩人生，不免悲从中来，心生嫉妒，想想也是可笑，何时已变的这般模样。快乐是别人的，我什么都没有。窗外的喧嚣声，只是徒增吵闹罢了。<br>
+  心中存放着梦想，随着时光的消磨，早已褪去了往日的棱角，上面斑驳的沟壑仿佛在倾诉着自己的过往，而如今却早已被遗弃在阴暗的角落，似乎是在与命运做最后的抗争，散发出微弱的银光在向命运呐喊，却又充满着无奈与彷徨。我从未忘记过它，却每次都败给懒惰。总是下定决心改变自己重拾梦想，努力学习充实生活，却总是无疾而终，最终变成了自己所讨厌的样子。<br>
+  生活，生活！难道只是为了生活，为什么会变成现在这个样子！
+  不甘心所以才活的很累。不愿意随波逐流，迷失在茫茫人海，却又没有勇气改变这一切。每天都活在自责与憧憬中，不断的厌恶着自己，不断的安慰着自己。<br>
+  无力的望着这个世界，我仿佛如幽灵一般游荡、游荡，飘浮在这城市中。没有目的，没有理由，没有灵魂，不曾来过。只剩躯壳，浑浑噩噩。<br></p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
