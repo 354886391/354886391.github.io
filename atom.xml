@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">不知晚的博客</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-04-19T14:57:07+08:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
+    <updated>2020-04-19T15:21:51+08:00</updated>
+    <id>https://ancolo.com/</id>
+    <link rel="alternate" type="text/html" href="https://ancolo.com/" />
+    <link rel="self" type="application/atom+xml" href="https://ancolo.com/atom.xml" />
     <author>
             <name>不知晚</name>
-            <uri>https://example.com/</uri>
+            <uri>https://ancolo.com/</uri>
             
                 <email>miogo@sina.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.69.0">Hugo</generator>
         <entry>
             <title type="text">望腰间赘肉有感</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/hello-world/" />
-            <id>https://example.com/posts/hello-world/</id>
+            <link rel="alternate" type="text/html" href="https://ancolo.com/posts/hello-world/" />
+            <id>https://ancolo.com/posts/hello-world/</id>
             <updated>2020-04-19T14:49:17+08:00</updated>
             <published>2020-04-16T01:00:01+08:00</published>
             <author>

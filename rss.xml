@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>不知晚的博客</title>
-        <link>https://example.com/</link>
+        <link>https://ancolo.com/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.69.0 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 19 Apr 2020 14:57:07 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2020 15:21:51 +0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss+xml" href="https://ancolo.com/rss.xml" />
         
         
             <item>
                 <title>望腰间赘肉有感</title>
-                <link>https://example.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
+                <link>https://ancolo.com/posts/hello-world/</link>
+                <guid isPermaLink="true">https://ancolo.com/posts/hello-world/</guid>
                 <pubDate>Thu, 16 Apr 2020 01:00:01 +0800</pubDate>
                 
                     <author>miogo@sina.com (不知晚)</author>
