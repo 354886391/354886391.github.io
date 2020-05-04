@@ -23,15 +23,42 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 19 Apr 2020 15:36:44 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2020 17:19:47 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://ancolo.com/rss.xml" />
         
         
             <item>
-                <title>望腰间赘肉有感</title>
-                <link>https://ancolo.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://ancolo.com/posts/hello-world/</guid>
+                <title>工作有感</title>
+                <link>https://ancolo.com/posts/%E5%B7%A5%E4%BD%9C%E6%9C%89%E6%84%9F/</link>
+                <guid isPermaLink="true">https://ancolo.com/posts/%E5%B7%A5%E4%BD%9C%E6%9C%89%E6%84%9F/</guid>
+                <pubDate>Sun, 26 Apr 2020 01:00:01 +0800</pubDate>
+                
+                    <author>miogo@sina.com (不知晚)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description><![CDATA[<p>今天周日，因为五一调休的缘故加班。复工以来新项目也陆陆续续写了两个多月了，今天开会又要讨论工作计划，烦。确实也是高估了自己，在项目评估时只预估了两个半月。项目开始之前还是有些期待的，现在却有些厌烦，自己一个人写着写着独自面对着种种困难渐渐有些力不从心。时间不断的流逝，项目已然要逾期，心中不免有些惶惶不安。
+晚上吃饭突然在想，我在担心什么，为什么最近心情一直低迷。努力工作究竟是为了什么，为了工资，为了讨好老板，还是为了虚无缥缈的梦。为什么一直在为绩效感到不安，总是想要找一些理由安慰自己，却一直被困在黑暗的深渊，孤独的画着圈。
+年年月月，日日年年，一直在迷雾中前行，望不到光明，看不尽黑暗。内心一直在被迷茫侵蚀，脚步也越来越慢，无力的前行着，似乎下一步就会掉入无边的深渊，迷失在无尽的黑暗之中。用尽最后的力气呐喊，得到的却也只有回声，绝望的坐在地上，融入在迷雾中，没留下一丝痕迹，仿佛从未有人来过。</p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>发胖有感</title>
+                <link>https://ancolo.com/posts/%E5%8F%91%E8%83%96%E6%9C%89%E6%84%9F/</link>
+                <guid isPermaLink="true">https://ancolo.com/posts/%E5%8F%91%E8%83%96%E6%9C%89%E6%84%9F/</guid>
                 <pubDate>Thu, 16 Apr 2020 01:00:01 +0800</pubDate>
                 
                     <author>miogo@sina.com (不知晚)</author>
@@ -44,6 +71,98 @@
   生活，生活！难道只是为了生活，为什么会变成现在这个样子！
   不甘心所以才活的很累。不愿意随波逐流，迷失在茫茫人海，却又没有勇气改变这一切。每天都活在自责与憧憬中，不断的厌恶着自己，不断的安慰着自己。<br>
   无力的望着这个世界，我仿佛如幽灵一般游荡、游荡，飘浮在这城市中。没有目的，没有理由，没有灵魂，不曾来过。只剩躯壳，浑浑噩噩。<br></p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>组件模式</title>
+                <link>https://ancolo.com/posts/uml%E5%9B%BE/</link>
+                <guid isPermaLink="true">https://ancolo.com/posts/uml%E5%9B%BE/</guid>
+                <pubDate>Thu, 16 Apr 2020 01:00:01 +0800</pubDate>
+                
+                    <author>miogo@sina.com (不知晚)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description><![CDATA[<p>类图：
+类图（class diagram）展示了程序中主要的类和关系。
+矩形表示类，箭头表示关系。
+关联关系是简单的数据关系，其中一个对象或者持有对另一个对象的引用，或者调用了其方法。
+关联上的名字映射为持有该引用的变量名。
+一般来说，和箭头相邻的数字表示该关系所包含的实例个数。如果数字比1大，就意味着某种容器，通常是数组。
+类图标中可以分成多个格间（compartment）。通常，最上面的格间存放类的名字。其他的格间中描述函数和变量。
+&lt;<interface>&gt;符号用来说明IComparable是一个接口。
+对象图展示了在系统执行的某个特定时刻的一组对象和关系。可以把它作是一个内存快照。</p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>组件模式</title>
+                <link>https://ancolo.com/posts/%E7%BB%84%E4%BB%B6%E6%A8%A1%E5%BC%8F/</link>
+                <guid isPermaLink="true">https://ancolo.com/posts/%E7%BB%84%E4%BB%B6%E6%A8%A1%E5%BC%8F/</guid>
+                <pubDate>Thu, 16 Apr 2020 01:00:01 +0800</pubDate>
+                
+                    <author>miogo@sina.com (不知晚)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description><![CDATA[<p>  单一实体跨越了多个领域。为了保持领域之间相互分离，将每部分代码放入各自的组件类中。实体被简化为组件的容器。
+  使用组合模式，我们可以把相同的操作作用于组合或单个对象上，也就是说，大多数情况下我们可以忽略对象们的组合与单个对象之间的差别。
+//插入 组件模式类图</p>
+<p>客户Client，使用Component来操作组合中的对象。
+Component是定义了所有对象的接口，包括组合节点与叶子节点。Component接口也可以实现一些默认操作，这里就是Add，Remove，GetChild。
+叶子Leaf会继承成Component的默认操作，但是有些操作也许并不适合叶子。
+叶子Leaf没有子节点。
+组合Composite需要为子节点的组件定义行为，同样还实现了叶子相关的操作，其中有些操作可能不适合组合，这种情况下异常可能会发生。</p>
+<p>组合模式牺牲单一职责原则换取了透明性。透明性指允许组件接口（Component interface）包括了子节点管理操作和叶子操作，客户可以一致的对待组合节点或叶子；所以任何一个元素到底是组合节点还是叶子，这件事对客户来说是透明的。</p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>组件模式</title>
+                <link>https://ancolo.com/posts/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/</link>
+                <guid isPermaLink="true">https://ancolo.com/posts/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/</guid>
+                <pubDate>Thu, 16 Apr 2020 01:00:01 +0800</pubDate>
+                
+                    <author>miogo@sina.com (不知晚)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description><![CDATA[<p>  观察者（Observer）：定义了响应的回调方法。
+主题（Subject）：注册/取消观察对象，并在特定条件下发送通知（调用观察者的回调方法）。</p>
 ]]></description>
                 
                 
